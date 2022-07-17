@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS-CounterApp/static/css/main.807d8ffa.css",
+    "main.js": "/ReactJS-CounterApp/static/js/main.f07f1ea4.js",
+    "index.html": "/ReactJS-CounterApp/index.html",
+    "main.807d8ffa.css.map": "/ReactJS-CounterApp/static/css/main.807d8ffa.css.map",
+    "main.f07f1ea4.js.map": "/ReactJS-CounterApp/static/js/main.f07f1ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807d8ffa.css",
+    "static/js/main.f07f1ea4.js"
+  ]
+}
