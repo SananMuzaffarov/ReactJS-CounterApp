@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  text-align: center;
+}
+#cont{
+  margin-top: 100px;
+}
+.buttons{
+  margin-top: 100px;
+}
+.buttons button{
+  cursor: pointer;
+  border: 1px solid rgb(17, 238, 17);
+  padding: 15px 30px;
+  background-color: rgb(17, 238, 17);
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+}
+#dec{
+  margin-right: 15px;
+}
